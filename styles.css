@@ -1,0 +1,10 @@
+body{background-color: black;}
+p,h1,h2,h3{font-size: 30px;
+color: gold;
+font-weight: 400;}
+button{background-color: aqua;
+border: none;
+color:black;
+padding:15px 30px;
+font-size: 15px;
+font-weight: 500;}
